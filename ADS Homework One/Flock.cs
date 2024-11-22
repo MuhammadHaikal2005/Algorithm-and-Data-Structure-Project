@@ -173,4 +173,10 @@ public class Flock
     {
         
     }
+
+
+    public void dronePartition()
+    {
+        
+    }
 }
